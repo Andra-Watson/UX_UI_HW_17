@@ -1,0 +1,33 @@
+/*
+* {
+    border: 1px solid red;
+} */
+
+.inline-block {
+   display: inline-block; 
+   vertical-align: top;
+}
+
+.logo {
+    width: 20%;
+    padding: 1%;
+    text-align:center;
+}
+
+nav {
+    width: 60%;
+    padding: 1%;
+}
+
+ul {
+    width: 50%;
+    margin-left:auto;
+}
+
+.heroImage {
+    width: 40%;
+}
+
+.Image {
+    width: 50%;
+}
