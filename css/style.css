@@ -17,11 +17,15 @@
 nav {
     width: 60%;
     padding: 1%;
+    
 }
 
 ul {
+    display:flex;
     width: 50%;
     margin-left:auto;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .heroImage {
