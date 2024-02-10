@@ -1,7 +1,7 @@
 /*
 * {
     border: 1px solid red;
-} */
+}*/
 
 *{
     margin: 0;
@@ -53,6 +53,8 @@ nav img{
     padding: 30px;
     margin: auto;
     background-color: #fff;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
 }
 
 .heroImage {
@@ -101,6 +103,7 @@ nav img{
 }
 
 footer {
+    padding: 30px;
     text-align: center;
     color: #017E9B; 
     font-family: 'Poppins', sans-serif;
